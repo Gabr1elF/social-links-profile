@@ -26,4 +26,8 @@ social-links-profile/
 - Efeitos de hover nos botões
 - Layout limpo e centralizado
 
+## 🌐 Acesse o site publicado
+
+👉 [Clique aqui para visitar](https://gabr1elf.github.io/social-links-profile/)
+
 Desenvolvido por Gabriel Freitas da Silva - https://github.com/Gabr1elF
